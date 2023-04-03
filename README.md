@@ -1,2 +1,2 @@
-# Image-Editor
-A python script to edit a give image. It is not completed yet
+# Pdf-Merger
+A python script to merge two or more pdf files
